@@ -27,7 +27,7 @@ const Menu: React.FC<Props> = () => {
   };
 
   return (
-    <div className="absolute right-[20px] lg:-right-[50px]">
+    <div className="absolute right-[20px] right-10 lg:right-2">
       <button
         onClick={() => setOpen(!open)}
         className="p-2 rounded-md bg-blue-600 text-white hover:bg-blue-700 transition"

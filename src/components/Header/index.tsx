@@ -19,7 +19,7 @@ const Header: React.FC = () => {
       </motion.div>
 
       <motion.div
-        className="flex items-center bg-gray-800 rounded-md px-6 py-3 text-gray-400 text-sm cursor-pointer hover:bg-gray-700 transition duration-200"
+        className="hidden md:flex absolute right-15 items-center bg-gray-800 rounded-md px-6 py-3 text-gray-400 text-sm cursor-pointer hover:bg-gray-700 transition duration-200"
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ duration: 0.8 }}
