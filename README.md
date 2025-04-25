@@ -76,7 +76,7 @@ src/
 
 1. **Clone the Repository**  
    ```bash
-   https://github.com/enockuwumukiza/crypto-watch.git
+   https://github.com/enockuwumukiza/crypto-tracker.git
    ```
 
 2. **Install Dependencies**  
